@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Camera",
+    "img": "camera.jpg",
+    "price": "₹5,999"
+  },
+  {
+    "name": "Gamepad",
+    "img": "gamepad.jpg",
+    "price": "₹1,299"
+  },
+  {
+    "name": "Headphone",
+    "img": "headphone.jpg",
+    "price": "₹2,499"
+  },
+  {
+    "name": "Home Theatre",
+    "img": "hometheatre.jpg",
+    "price": "₹7,999"
+  },
+  {
+    "name": "Laptop",
+    "img": "laptop.jpg",
+    "price": "₹49,999"
+  },
+  {
+    "name": "Mobile",
+    "img": "mobile.jpg",
+    "price": "₹18,999"
+  },
+  {
+    "name": "Pods",
+    "img": "pods.jpg",
+    "price": "₹2,199"
+  },
+  {
+    "name": "Speaker",
+    "img": "speaker.jpg",
+    "price": "₹1,999"
+  }
+]
