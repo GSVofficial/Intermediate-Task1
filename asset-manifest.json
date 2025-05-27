@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Intermediate-Task1/static/css/main.ca7f6cfa.css",
+    "main.js": "/Intermediate-Task1/static/js/main.869c63da.js",
+    "static/media/laptop.jpg": "/Intermediate-Task1/static/media/laptop.e498d3487926a58ffa61.jpg",
+    "static/media/mobile.jpg": "/Intermediate-Task1/static/media/mobile.5d09e45be1d444170c20.jpg",
+    "static/media/gamepad.jpg": "/Intermediate-Task1/static/media/gamepad.4dcb25c766101e24b8ee.jpg",
+    "static/media/pods.jpg": "/Intermediate-Task1/static/media/pods.470dad5fba155761d19e.jpg",
+    "static/media/hometheatre.jpg": "/Intermediate-Task1/static/media/hometheatre.6b20d7fd010cecd25b4c.jpg",
+    "static/media/camera.jpg": "/Intermediate-Task1/static/media/camera.3d2081d8f01487a91e98.jpg",
+    "static/media/headphone.jpg": "/Intermediate-Task1/static/media/headphone.7b26b3f86ba9bded5256.jpg",
+    "static/media/speaker.jpg": "/Intermediate-Task1/static/media/speaker.41f78f05596f8bf9aa24.jpg",
+    "index.html": "/Intermediate-Task1/index.html",
+    "main.ca7f6cfa.css.map": "/Intermediate-Task1/static/css/main.ca7f6cfa.css.map",
+    "main.869c63da.js.map": "/Intermediate-Task1/static/js/main.869c63da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7f6cfa.css",
+    "static/js/main.869c63da.js"
+  ]
+}
